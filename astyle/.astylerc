@@ -8,7 +8,7 @@
 -s4
 
 # Entire class block is indented (C++)
---indent-classes
+# --indent-classes
 
 # Entire switch-case block is indented
 --indent-switches
